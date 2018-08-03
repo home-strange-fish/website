@@ -12,4 +12,4 @@ Welcome to Guaiyu's BLOG's documentation!
 
 
    how_to_be_a_rich_man
-
+   2018-08-03
